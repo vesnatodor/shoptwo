@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+.holder1{
+    display: flex;
+    height: 700px;
+    line-height: 1.2;
+    font-family: 'Dance';
+}
+.holder1_1{
+    width: 60%;
+    margin-left:70px;
+    margin-right: 70px;  
+    font-size: 18px;
+}
+.holder1_2{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    margin: 15px 30px;
+}
+.p1{
+    text-align: left;
+}
+img{
+   margin-top: 100px; 
+}
+
